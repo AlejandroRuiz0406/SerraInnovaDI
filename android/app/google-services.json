@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735808254792",
+    "project_id": "serrainnova-79912",
+    "storage_bucket": "serrainnova-79912.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735808254792:android:edd6cb514a386d74a2f97d",
+        "android_client_info": {
+          "package_name": "com.example.serra_innova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3l-ngwbscZ_Irq4c7qokzFZDIs18m5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

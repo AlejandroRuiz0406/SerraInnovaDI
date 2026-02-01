@@ -1,0 +1,4 @@
+enum FiltrosOrigen {
+  home,
+  resultados,
+}
